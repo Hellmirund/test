@@ -1,0 +1,46 @@
+E:\My-Paint\My-Paint\bin\x86\Debug\My-Paint.exe
+E:\My-Paint\My-Paint\bin\x86\Debug\My-Paint.pdb
+E:\My-Paint\My-Paint\bin\x86\Debug\Tao.FreeGlut.dll
+E:\My-Paint\My-Paint\bin\x86\Debug\Tao.OpenGl.dll
+E:\My-Paint\My-Paint\bin\x86\Debug\Tao.Platform.Windows.dll
+E:\My-Paint\My-Paint\bin\x86\Debug\Tao.FreeGlut.xml
+E:\My-Paint\My-Paint\bin\x86\Debug\Tao.OpenGl.xml
+E:\My-Paint\My-Paint\bin\x86\Debug\Tao.Platform.Windows.xml
+E:\My-Paint\My-Paint\obj\x86\Debug\My_Paint.Form1.resources
+E:\My-Paint\My-Paint\obj\x86\Debug\My_Paint.Properties.Resources.resources
+E:\My-Paint\My-Paint\obj\x86\Debug\My-Paint.csproj.GenerateResource.Cache
+E:\My-Paint\My-Paint\obj\x86\Debug\My-Paint.exe
+E:\My-Paint\My-Paint\obj\x86\Debug\My-Paint.pdb
+E:\My-Paint\My-Paint\obj\x86\Debug\My-Paint.csprojResolveAssemblyReference.cache
+E:\Оставлено\Уроки openGL\My-Paint\My-Paint\bin\x86\Debug\My-Paint.exe
+E:\Оставлено\Уроки openGL\My-Paint\My-Paint\bin\x86\Debug\My-Paint.pdb
+E:\Оставлено\Уроки openGL\My-Paint\My-Paint\bin\x86\Debug\Tao.FreeGlut.dll
+E:\Оставлено\Уроки openGL\My-Paint\My-Paint\bin\x86\Debug\Tao.OpenGl.dll
+E:\Оставлено\Уроки openGL\My-Paint\My-Paint\bin\x86\Debug\Tao.Platform.Windows.dll
+E:\Оставлено\Уроки openGL\My-Paint\My-Paint\bin\x86\Debug\Tao.FreeGlut.xml
+E:\Оставлено\Уроки openGL\My-Paint\My-Paint\bin\x86\Debug\Tao.OpenGl.xml
+E:\Оставлено\Уроки openGL\My-Paint\My-Paint\bin\x86\Debug\Tao.Platform.Windows.xml
+E:\Оставлено\Уроки openGL\My-Paint\My-Paint\obj\x86\Debug\My-Paint.csprojResolveAssemblyReference.cache
+E:\Оставлено\Уроки openGL\My-Paint\My-Paint\obj\x86\Debug\My_Paint.Form1.resources
+E:\Оставлено\Уроки openGL\My-Paint\My-Paint\obj\x86\Debug\My_Paint.Properties.Resources.resources
+E:\Оставлено\Уроки openGL\My-Paint\My-Paint\obj\x86\Debug\My-Paint.csproj.GenerateResource.cache
+E:\Оставлено\Уроки openGL\My-Paint\My-Paint\obj\x86\Debug\My-Paint.csproj.CoreCompileInputs.cache
+E:\Оставлено\Уроки openGL\My-Paint\My-Paint\obj\x86\Debug\My-Paint.csproj.CopyComplete
+E:\Оставлено\Уроки openGL\My-Paint\My-Paint\obj\x86\Debug\My-Paint.exe
+E:\Оставлено\Уроки openGL\My-Paint\My-Paint\obj\x86\Debug\My-Paint.pdb
+E:\Уроки openGL\My-Paint\My-Paint\obj\x86\Debug\My-Paint.csprojResolveAssemblyReference.cache
+E:\Уроки openGL\My-Paint\My-Paint\obj\x86\Debug\My_Paint.Form1.resources
+E:\Уроки openGL\My-Paint\My-Paint\obj\x86\Debug\My_Paint.Properties.Resources.resources
+E:\Уроки openGL\My-Paint\My-Paint\obj\x86\Debug\My-Paint.csproj.GenerateResource.cache
+E:\Уроки openGL\My-Paint\My-Paint\obj\x86\Debug\My-Paint.csproj.CoreCompileInputs.cache
+E:\Уроки openGL\My-Paint\My-Paint\obj\x86\Debug\My-Paint.exe
+E:\Уроки openGL\My-Paint\My-Paint\obj\x86\Debug\My-Paint.pdb
+E:\Уроки openGL\My-Paint\My-Paint\bin\x86\Debug\My-Paint.exe
+E:\Уроки openGL\My-Paint\My-Paint\bin\x86\Debug\My-Paint.pdb
+E:\Уроки openGL\My-Paint\My-Paint\bin\x86\Debug\Tao.FreeGlut.dll
+E:\Уроки openGL\My-Paint\My-Paint\bin\x86\Debug\Tao.OpenGl.dll
+E:\Уроки openGL\My-Paint\My-Paint\bin\x86\Debug\Tao.Platform.Windows.dll
+E:\Уроки openGL\My-Paint\My-Paint\bin\x86\Debug\Tao.FreeGlut.xml
+E:\Уроки openGL\My-Paint\My-Paint\bin\x86\Debug\Tao.OpenGl.xml
+E:\Уроки openGL\My-Paint\My-Paint\bin\x86\Debug\Tao.Platform.Windows.xml
+E:\Уроки openGL\My-Paint\My-Paint\obj\x86\Debug\My-Paint.csproj.CopyComplete
